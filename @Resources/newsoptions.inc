@@ -21,11 +21,11 @@
 2reg=(?siU)<entry>.*<title>(.*)</title>.*<id>(.*)</id>.*html">\n(.*)</content>
 2upd=(?siU)<entry>.*<updated>(.*)</updated>
 
-3name=TSUKI Project
-3home=https://systemspace.link
-3url=https://systemspace.link/api/news-feed-atom.php
-3reg=(?siU)<entry>.*<title>(.*)</title>.*<id>(.*)</id>.*/xhtml'>(.*)</div>
-3upd=(?siU)<entry>.*<updated>(.*)</updated>
+3name=
+3home=
+3url=
+3reg=
+3upd=
 
 4name=slot 4
 4home=
